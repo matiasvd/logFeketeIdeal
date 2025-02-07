@@ -1,0 +1,3030 @@
+INFO:    instance started successfully
+Macaulay2, version 1.21
+with packages: ConwayPolynomials, Elimination, IntegralClosure, InverseSystems, Isomorphism, LLLBases, MinimalPrimes, OnlineLookup, PrimaryDecomposition, ReesAlgebra, Saturation, TangentCone
+
+   -- registering gb 0 at 0x7f4fd21b58c0
+
+   -- [gb]{1}(17)mmmmmmmmmmmmmmmmm{2}(81)mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+   -- mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm{3}(598)ooooooooooooooooooooooooooooo
+   -- ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- oooooooooooooooooooooooooooooooooooooooooooonumber of (nonminimal) gb elements = 98
+   -- number of monomials                = 961
+   -- #reduction steps = 16597
+   -- #spairs done = 1751
+   -- ncalls = 19918
+   -- nloop = 235918
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 0 at 0x7f4fd4414800
+
+   -- registering monomial ideal 1 at 0x7f4fd5a2c100
+
+   -- registering monomial ideal 2 at 0x7f4fd5a3aa00
+
+   -- registering monomial ideal 3 at 0x7f4fd5a49300
+
+   -- registering monomial ideal 4 at 0x7f4fd5a5cbc0
+
+   -- registering gb 1 at 0x7f4fd21b5700
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 7
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 2 at 0x7f4fd21b5540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 7
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 3 at 0x7f4fd21b5380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 10
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 4 at 0x7f4fd21b51c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 6
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 5 at 0x7f4fd21b5000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 5
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 6 at 0x7f4fd66ffe00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 3
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 7 at 0x7f4fd66ffc40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 3
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 8 at 0x7f4fd66ffa80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 3
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 9 at 0x7f4fd66ff8c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 5
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 10 at 0x7f4fd66ff700
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 11 at 0x7f4fd66ff540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 7
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 12 at 0x7f4fd66ff380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 7
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 13 at 0x7f4fd66ff1c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 10
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 14 at 0x7f4fd66ff000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 6
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 15 at 0x7f4fd991fe00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 5
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 16 at 0x7f4fd991fc40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 5
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 17 at 0x7f4fd991fa80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 5 at 0x7f4fdd90bc80
+
+   -- registering monomial ideal 6 at 0x7f4fdd90b400
+
+   -- registering monomial ideal 7 at 0x7f4fdd9feb00
+
+   -- registering monomial ideal 8 at 0x7f4fdda15240
+
+   -- registering monomial ideal 9 at 0x7f4fdda2e9c0
+
+   -- registering monomial ideal 10 at 0x7f4fdda2e340
+
+   -- registering monomial ideal 11 at 0x7f4fdda2f8c0
+
+   -- registering gb 18 at 0x7f4fd991f8c0
+
+   -- [gb]{3}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 6
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 19 at 0x7f4fd991f700
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 7
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 12 at 0x7f4fdf304e80
+
+   -- registering monomial ideal 13 at 0x7f4fdf304600
+
+   -- registering monomial ideal 14 at 0x7f4fdf30af80
+
+   -- registering monomial ideal 15 at 0x7f4fdf30a640
+
+   -- registering monomial ideal 16 at 0x7f4fdf30a980
+
+   -- registering monomial ideal 17 at 0x7f4fdf312a80
+
+   -- registering gb 20 at 0x7f4fd991f540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 4
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 21 at 0x7f4fd991f380
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 22 at 0x7f4fd991f1c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 23 at 0x7f4fd991f000
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 4
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 24 at 0x7f4fdf8f3e00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 25 at 0x7f4fdf8f3c40
+
+   -- [gb]{0}(2)monumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 1
+   -- #spairs done = 2
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 26 at 0x7f4fdf8f3a80
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 27 at 0x7f4fdf8f38c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 18 at 0x7f4fdfa739c0
+
+   -- registering monomial ideal 19 at 0x7f4fdfa730c0
+
+   -- registering gb 28 at 0x7f4fdf8f3700
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 6
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 20 at 0x7f4fe0790040
+
+   -- registering monomial ideal 21 at 0x7f4fe07af700
+
+   -- registering monomial ideal 22 at 0x7f4fe07b0e00
+
+   -- registering monomial ideal 23 at 0x7f4fe07b0300
+
+   -- registering gb 29 at 0x7f4fdf8f3540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 3
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 30 at 0x7f4fdf8f3380
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 5
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 24 at 0x7f4fe0b6e900
+
+   -- registering monomial ideal 25 at 0x7f4fe0b6e400
+
+   -- registering monomial ideal 26 at 0x7f4fe0b79980
+
+   -- registering monomial ideal 27 at 0x7f4fe0b79140
+
+   -- registering monomial ideal 28 at 0x7f4fe14af700
+
+   -- registering monomial ideal 29 at 0x7f4fe1528d80
+
+   -- registering monomial ideal 30 at 0x7f4fe1528140
+
+   -- registering monomial ideal 31 at 0x7f4fe152de00
+
+   -- registering monomial ideal 32 at 0x7f4fe152d140
+
+   -- registering monomial ideal 33 at 0x7f4fe1532d40
+
+   -- registering monomial ideal 34 at 0x7f4fe1532240
+
+   -- registering monomial ideal 35 at 0x7f4fe1536c80
+
+   -- registering monomial ideal 36 at 0x7f4fe1536180
+
+   -- registering monomial ideal 37 at 0x7f4fe153bd80
+
+   -- registering monomial ideal 38 at 0x7f4fe153b100
+
+   -- registering monomial ideal 39 at 0x7f4fe1541c00
+
+   -- registering monomial ideal 40 at 0x7f4fe15412c0
+
+   -- registering monomial ideal 41 at 0x7f4fe20bf7c0
+
+   -- registering monomial ideal 42 at 0x7f4fe20bf180
+
+   -- registering gb 31 at 0x7f4fe1f6b1c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 32 at 0x7f4fe1f6b000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 43 at 0x7f4fe37391c0
+
+   -- registering monomial ideal 44 at 0x7f4fe37d7d80
+
+   -- registering gb 33 at 0x7f4fe4284e00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 3
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 45 at 0x7f4fe4347a00
+
+   -- registering monomial ideal 46 at 0x7f4fe4347480
+
+   -- registering monomial ideal 47 at 0x7f4fe4356f80
+
+   -- registering monomial ideal 48 at 0x7f4fe4356940
+
+   -- registering monomial ideal 49 at 0x7f4fe4356540
+
+   -- registering monomial ideal 50 at 0x7f4fe4367400
+
+   -- registering monomial ideal 51 at 0x7f4fe437ed80
+
+   -- registering monomial ideal 52 at 0x7f4fe43975c0
+
+   -- registering monomial ideal 53 at 0x7f4fe43971c0
+
+   -- registering monomial ideal 54 at 0x7f4fe43cdc40
+
+   -- registering monomial ideal 55 at 0x7f4fe43cd6c0
+
+   -- registering monomial ideal 56 at 0x7f4fe43cd2c0
+
+   -- registering monomial ideal 57 at 0x7f4fe43d4b80
+
+   -- registering monomial ideal 58 at 0x7f4fe43d4780
+
+   -- registering monomial ideal 59 at 0x7f4fe43d4d80
+
+   -- registering monomial ideal 60 at 0x7f4fe43dfd40
+
+   -- registering monomial ideal 61 at 0x7f4fe43df940
+
+   -- registering gb 34 at 0x7f4fe4284540
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 35 at 0x7f4fe4492380
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 3
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 36 at 0x7f4fe45881c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 37 at 0x7f4fe4588000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 62 at 0x7f4fe4797880
+
+   -- registering monomial ideal 63 at 0x7f4fe4797240
+
+   -- registering monomial ideal 64 at 0x7f4fe47a2d40
+
+   -- registering monomial ideal 65 at 0x7f4fe47a27c0
+
+   -- registering monomial ideal 66 at 0x7f4fe47a2240
+
+   -- registering monomial ideal 67 at 0x7f4fe47a2000
+
+   -- registering monomial ideal 68 at 0x7f4fe47abb40
+
+   -- registering monomial ideal 69 at 0x7f4fe47ab440
+
+   -- registering gb 38 at 0x7f4fe482ee00
+
+   -- [gb]{3}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 4
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 39 at 0x7f4fe482ec40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 40 at 0x7f4fe482ea80
+
+   -- [gb]{0}(68)moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- onumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 67
+   -- #spairs done = 68
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 41 at 0x7f4fe482e8c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 42 at 0x7f4fe482e700
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 70 at 0x7f4fe4adcf80
+
+   -- registering monomial ideal 71 at 0x7f4fe4adcb80
+
+   -- registering gb 43 at 0x7f4fe482e540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 44 at 0x7f4fe4b7a380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 45 at 0x7f4fe4b7a1c0
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 72 at 0x7f4fe4d1e100
+
+   -- registering monomial ideal 73 at 0x7f4fe4d3ab80
+
+   -- registering monomial ideal 74 at 0x7f4fe4d3a600
+
+   -- registering monomial ideal 75 at 0x7f4fe4d3a080
+
+   -- registering monomial ideal 76 at 0x7f4fe4d3bf80
+
+   -- registering monomial ideal 77 at 0x7f4fe4d3ba00
+
+   -- registering monomial ideal 78 at 0x7f4fe4d3bbc0
+
+   -- registering monomial ideal 79 at 0x7f4fe4d3b040
+
+   -- registering monomial ideal 80 at 0x7f4fe4d47c40
+
+   -- registering monomial ideal 81 at 0x7f4fe4d47540
+
+   -- registering monomial ideal 82 at 0x7f4fe4d47dc0
+
+   -- registering monomial ideal 83 at 0x7f4fe4d47840
+
+   -- registering monomial ideal 84 at 0x7f4fe4d4eb80
+
+   -- registering monomial ideal 85 at 0x7f4fe4d4e600
+
+   -- registering gb 46 at 0x7f4fe4d56c40
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 4
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 47 at 0x7f4fe4e07a80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 48 at 0x7f4fe4e078c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 86 at 0x7f4fe4f23380
+
+   -- registering monomial ideal 87 at 0x7f4fe4f3cb80
+
+   -- registering monomial ideal 88 at 0x7f4fe4f3c3c0
+
+   -- registering monomial ideal 89 at 0x7f4fe4f3cd80
+
+   -- registering monomial ideal 90 at 0x7f4fe4f42c80
+
+   -- registering monomial ideal 91 at 0x7f4fe4f42580
+
+   -- registering gb 49 at 0x7f4fe4e07380
+
+   -- [gb]{3}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 6
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 50 at 0x7f4fe4ffa1c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 92 at 0x7f4fe50fa940
+
+   -- registering monomial ideal 93 at 0x7f4fe50fa240
+
+   -- registering monomial ideal 94 at 0x7f4fe5105d40
+
+   -- registering monomial ideal 95 at 0x7f4fe5105640
+
+   -- registering gb 51 at 0x7f4fe50b6380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 52 at 0x7f4fe50b61c0
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 96 at 0x7f4fe51f4940
+
+   -- registering monomial ideal 97 at 0x7f4fe51f4240
+
+   -- registering monomial ideal 98 at 0x7f4fe51fed40
+
+   -- registering monomial ideal 99 at 0x7f4fe51fe640
+
+   -- registering gb 53 at 0x7f4fe5207c40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 54 at 0x7f4fe5207a80
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 100 at 0x7f4fe52f6100
+
+   -- registering monomial ideal 101 at 0x7f4fe5312a00
+
+   -- registering monomial ideal 102 at 0x7f4fe5312300
+
+   -- registering monomial ideal 103 at 0x7f4fe5312c40
+
+   -- registering gb 55 at 0x7f4fe52078c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 56 at 0x7f4fe5207700
+
+   -- [gb]{0}(68)moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- onumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 67
+   -- #spairs done = 68
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 57 at 0x7f4fe5207540
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 58 at 0x7f4fe5207380
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 59 at 0x7f4fe52071c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 60 at 0x7f4fe5207000
+
+   -- [gb]{0}(68)moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+   -- onumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 67
+   -- #spairs done = 68
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 61 at 0x7f4fe58fce00
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 62 at 0x7f4fe58fcc40
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 63 at 0x7f4fe58fc700
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 64 at 0x7f4fe58fc540
+
+   -- [gb]{0}(15)moooooooooooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 14
+   -- #spairs done = 15
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 65 at 0x7f4fe58fc380
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 66 at 0x7f4fe58fc1c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 67 at 0x7f4fe58fc000
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 68 at 0x7f4fe5a1ae00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- [gb]number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 104 at 0x7f4fe5aa8d80
+
+   -- registering monomial ideal 105 at 0x7f4fe5aa8980
+
+   -- registering gb 69 at 0x7f4fe5a1ac40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 70 at 0x7f4fe5a1aa80
+
+   -- [gb]{0}(15)moooooooooooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 14
+   -- #spairs done = 15
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 71 at 0x7f4fe5a1a8c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 72 at 0x7f4fe5a1a700
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 73 at 0x7f4fe5a1a540
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 106 at 0x7f4fe5be0380
+
+   -- registering monomial ideal 107 at 0x7f4fe5bf7dc0
+
+   -- registering gb 74 at 0x7f4fe5a1a000
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 4
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 75 at 0x7f4fe5cb4e00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 76 at 0x7f4fe5cb4c40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 77 at 0x7f4fe5cb4a80
+
+   -- [gb]{0}(1)m{1}(2)oonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 2
+   -- #spairs done = 3
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 78 at 0x7f4fe5cb48c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 79 at 0x7f4fe5cb4700
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 108 at 0x7f4fe5de5dc0
+
+   -- registering monomial ideal 109 at 0x7f4fe5de5780
+
+   -- registering monomial ideal 110 at 0x7f4fe5de5140
+
+   -- registering monomial ideal 111 at 0x7f4fe5de9e80
+
+   -- registering monomial ideal 112 at 0x7f4fe5de9680
+
+   -- registering monomial ideal 113 at 0x7f4fe5de91c0
+
+   -- registering monomial ideal 114 at 0x7f4fe5df4d00
+
+   -- registering monomial ideal 115 at 0x7f4fe5df4600
+
+   -- registering monomial ideal 116 at 0x7f4fe5df4180
+
+   -- registering monomial ideal 117 at 0x7f4fe5df4f80
+
+   -- registering monomial ideal 118 at 0x7f4fe5dfca40
+
+   -- registering monomial ideal 119 at 0x7f4fe5dfc340
+
+   -- registering monomial ideal 120 at 0x7f4fe5dfc0c0
+
+   -- registering monomial ideal 121 at 0x7f4fe5e00c00
+
+   -- registering monomial ideal 122 at 0x7f4fe5e00680
+
+   -- registering monomial ideal 123 at 0x7f4fe5e00ec0
+
+   -- registering gb 80 at 0x7f4fe5cb41c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 81 at 0x7f4fe5e96000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 124 at 0x7f4fe5f57300
+
+   -- registering monomial ideal 125 at 0x7f4fe5f6eb00
+
+   -- registering monomial ideal 126 at 0x7f4fe5f6e340
+
+   -- registering monomial ideal 127 at 0x7f4fe5f6ec40
+
+   -- registering gb 82 at 0x7f4fe5f99e00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 83 at 0x7f4fe5f99c40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 128 at 0x7f4fe6031a80
+
+   -- registering monomial ideal 129 at 0x7f4fe6031380
+
+   -- registering monomial ideal 130 at 0x7f4fe6037e80
+
+   -- registering monomial ideal 131 at 0x7f4fe6037780
+
+   -- registering gb 84 at 0x7f4fe5f99a80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 85 at 0x7f4fe5f998c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 132 at 0x7f4fe60e4080
+
+   -- registering monomial ideal 133 at 0x7f4fe610c980
+
+   -- registering monomial ideal 134 at 0x7f4fe610c280
+
+   -- registering monomial ideal 135 at 0x7f4fe610cac0
+
+   -- registering monomial ideal 136 at 0x7f4fe64f6d00
+
+   -- registering monomial ideal 137 at 0x7f4fe64f6600
+
+   -- registering gb 86 at 0x7f4fe5f99000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 87 at 0x7f4fe6637e00
+
+   -- [gb]{0}(7)moooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 6
+   -- #spairs done = 7
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 88 at 0x7f4fe6637c40
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 89 at 0x7f4fe6637a80
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 90 at 0x7f4fe66378c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 138 at 0x7f4fe6702d80
+
+   -- registering monomial ideal 139 at 0x7f4fe6702680
+
+   -- registering monomial ideal 140 at 0x7f4fe677cb80
+
+   -- registering monomial ideal 141 at 0x7f4fe677c480
+
+   -- registering gb 91 at 0x7f4fe6637700
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 92 at 0x7f4fe6637540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 142 at 0x7f4fe6847300
+
+   -- registering monomial ideal 143 at 0x7f4fe685ebc0
+
+   -- registering monomial ideal 144 at 0x7f4fe685e4c0
+
+   -- registering monomial ideal 145 at 0x7f4fe685e600
+
+   -- registering monomial ideal 146 at 0x7f4fe68ca780
+
+   -- registering monomial ideal 147 at 0x7f4fe68ca080
+
+   -- registering gb 93 at 0x7f4fe6637380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 94 at 0x7f4fe66371c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 148 at 0x7f4fe69c6a40
+
+   -- registering monomial ideal 149 at 0x7f4fe69c6340
+
+   -- registering monomial ideal 150 at 0x7f4fe69cce40
+
+   -- registering monomial ideal 151 at 0x7f4fe69cc740
+
+   -- registering monomial ideal 152 at 0x7f4fe6a49ec0
+
+   -- registering monomial ideal 153 at 0x7f4fe6a49940
+
+   -- registering gb 95 at 0x7f4fe6a50c40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 96 at 0x7f4fe6af1000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- [gb]number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 97 at 0x7f4fe6b45380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 154 at 0x7f4fe6bf04c0
+
+   -- registering monomial ideal 155 at 0x7f4fe6bf00c0
+
+   -- registering monomial ideal 156 at 0x7f4fe6c04d40
+
+   -- registering monomial ideal 157 at 0x7f4fe6c047c0
+
+   -- registering monomial ideal 158 at 0x7f4fe6c7fdc0
+
+   -- registering monomial ideal 159 at 0x7f4fe6c7f840
+
+   -- registering monomial ideal 160 at 0x7f4fe6c7f540
+
+   -- registering monomial ideal 161 at 0x7f4fe6c82ac0
+
+   -- registering monomial ideal 162 at 0x7f4fe6c82300
+
+   -- registering monomial ideal 163 at 0x7f4fe6c82080
+
+   -- registering monomial ideal 164 at 0x7f4fe6c8dbc0
+
+   -- registering monomial ideal 165 at 0x7f4fe6c8d4c0
+
+   -- registering monomial ideal 166 at 0x7f4fe6c8dd00
+
+   -- registering monomial ideal 167 at 0x7f4fe6c96d40
+
+   -- registering monomial ideal 168 at 0x7f4fe6c96640
+
+   -- registering monomial ideal 169 at 0x7f4fe6c96200
+
+   -- registering monomial ideal 170 at 0x7f4fe6c8d600
+
+   -- registering monomial ideal 171 at 0x7f4fe6c9aa80
+
+   -- registering monomial ideal 172 at 0x7f4fe6c9a300
+
+   -- registering monomial ideal 173 at 0x7f4fe6c9ac80
+
+   -- registering monomial ideal 174 at 0x7f4fe6ca7b00
+
+   -- registering monomial ideal 175 at 0x7f4fe6ca7400
+
+   -- registering monomial ideal 176 at 0x7f4fe6ca7c80
+
+   -- registering monomial ideal 177 at 0x7f4fe6ca7580
+
+   -- registering monomial ideal 178 at 0x7f4fe6cae8c0
+
+   -- registering monomial ideal 179 at 0x7f4fe6cae100
+
+   -- registering monomial ideal 180 at 0x7f4fe6cafe80
+
+   -- registering monomial ideal 181 at 0x7f4fe6caf780
+
+   -- registering monomial ideal 182 at 0x7f4fe6caea80
+
+   -- registering monomial ideal 183 at 0x7f4fe6caeb40
+
+   -- registering monomial ideal 184 at 0x7f4fe6cb8b40
+
+   -- registering monomial ideal 185 at 0x7f4fe6cb8440
+
+   -- registering monomial ideal 186 at 0x7f4fe6cb8e00
+
+   -- registering monomial ideal 187 at 0x7f4fe6cbdd00
+
+   -- registering monomial ideal 188 at 0x7f4fe6cbd600
+
+   -- registering monomial ideal 189 at 0x7f4fe6cbd200
+
+   -- registering monomial ideal 190 at 0x7f4fe6cc7dc0
+
+   -- registering monomial ideal 191 at 0x7f4fe6cc76c0
+
+   -- registering monomial ideal 192 at 0x7f4fe6cc7340
+
+   -- registering monomial ideal 193 at 0x7f4fe6cbde40
+
+   -- registering monomial ideal 194 at 0x7f4fe6cccd00
+
+   -- registering monomial ideal 195 at 0x7f4fe6ccc540
+
+   -- registering monomial ideal 196 at 0x7f4fe6ccce40
+
+   -- registering monomial ideal 197 at 0x7f4fe6cd2c80
+
+   -- registering monomial ideal 198 at 0x7f4fe6cd2580
+
+   -- registering monomial ideal 199 at 0x7f4fe6cd2700
+
+   -- registering monomial ideal 200 at 0x7f4fe6cd8e40
+
+   -- registering monomial ideal 201 at 0x7f4fe6cd8740
+
+   -- registering monomial ideal 202 at 0x7f4fe6cd8040
+
+   -- registering monomial ideal 203 at 0x7f4fe6cd2080
+
+   -- registering monomial ideal 204 at 0x7f4fe6cddb80
+
+   -- registering monomial ideal 205 at 0x7f4fe6cdd480
+
+   -- registering monomial ideal 206 at 0x7f4fe6cdd000
+
+   -- registering monomial ideal 207 at 0x7f4fe6ce9ac0
+
+   -- registering monomial ideal 208 at 0x7f4fe6ce93c0
+
+   -- registering monomial ideal 209 at 0x7f4fe6ce9cc0
+
+   -- registering monomial ideal 210 at 0x7f4fe6cedb80
+
+   -- registering monomial ideal 211 at 0x7f4fe6ced600
+
+   -- registering monomial ideal 212 at 0x7f4fe6ced3c0
+
+   -- registering monomial ideal 213 at 0x7f4fe6cf7e00
+
+   -- registering monomial ideal 214 at 0x7f4fe6cf7700
+
+   -- registering monomial ideal 215 at 0x7f4fe6cf7a00
+
+   -- registering monomial ideal 216 at 0x7f4fe6cf7100
+
+   -- registering monomial ideal 217 at 0x7f4fe6cfeb00
+
+   -- registering monomial ideal 218 at 0x7f4fe6cfe400
+
+   -- registering monomial ideal 219 at 0x7f4fe6cfed80
+
+   -- registering monomial ideal 220 at 0x7f4fe6d03cc0
+
+   -- registering monomial ideal 221 at 0x7f4fe6d035c0
+
+   -- registering monomial ideal 222 at 0x7f4fe6d030c0
+
+   -- registering gb 98 at 0x7f4fe6fdca80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 223 at 0x7f4fe7092e80
+
+   -- registering monomial ideal 224 at 0x7f4fe7092a80
+
+   -- registering gb 99 at 0x7f4fe6fdc540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 100 at 0x7f4fe6fdc380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 225 at 0x7f4fe71eaac0
+
+   -- registering monomial ideal 226 at 0x7f4fe71ea6c0
+
+   -- registering gb 101 at 0x7f4fe6fdc1c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 102 at 0x7f4fe6fdc000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 227 at 0x7f4fe733a300
+
+   -- registering monomial ideal 228 at 0x7f4fe733a040
+
+   -- registering gb 103 at 0x7f4fe744be00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 104 at 0x7f4fe744bc40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 229 at 0x7f4fe748b100
+
+   -- registering monomial ideal 230 at 0x7f4fe74b5cc0
+
+   -- registering gb 105 at 0x7f4fe744ba80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 106 at 0x7f4fe744b8c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 231 at 0x7f4fe7615d40
+
+   -- registering monomial ideal 232 at 0x7f4fe7615940
+
+   -- registering gb 107 at 0x7f4fe77e6700
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 233 at 0x7f4fe7a07440
+
+   -- registering monomial ideal 234 at 0x7f4fe7a07040
+
+   -- registering gb 108 at 0x7f4fe7bff8c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 235 at 0x7f4fe7e3b900
+
+   -- registering monomial ideal 236 at 0x7f4fe7e3b500
+
+   -- registering gb 109 at 0x7f4fe7cdca80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 110 at 0x7f4fe7cdc8c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 237 at 0x7f4fe7f92700
+
+   -- registering monomial ideal 238 at 0x7f4fe7f92300
+
+   -- registering gb 111 at 0x7f4fe7cdc700
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 112 at 0x7f4fe7cdc540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 113 at 0x7f4fe7cdc380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 114 at 0x7f4fe7cdc1c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 239 at 0x7f4fe818f200
+
+   -- registering monomial ideal 240 at 0x7f4fe81cfdc0
+
+   -- registering gb 115 at 0x7f4fe7cdc000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 116 at 0x7f4fe826ae00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 117 at 0x7f4fe826ac40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 118 at 0x7f4fe826aa80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 119 at 0x7f4fe826a8c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 241 at 0x7f4fe8560500
+
+   -- registering monomial ideal 242 at 0x7f4fe8560100
+
+   -- registering gb 120 at 0x7f4fe826a700
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 121 at 0x7f4fe826a540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 243 at 0x7f4fe86d0fc0
+
+   -- registering monomial ideal 244 at 0x7f4fe86d0bc0
+
+   -- registering gb 122 at 0x7f4fe826a380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 123 at 0x7f4fe826a1c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 124 at 0x7f4fe826a000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 125 at 0x7f4fe88d1e00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 245 at 0x7f4fe8917e40
+
+   -- registering monomial ideal 246 at 0x7f4fe8917a40
+
+   -- registering gb 126 at 0x7f4fe88d1c40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 127 at 0x7f4fe88d1a80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 128 at 0x7f4fe8bc8540
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 129 at 0x7f4fe8bc8000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 247 at 0x7f4fe8c68280
+
+   -- registering monomial ideal 248 at 0x7f4fe8cb2e40
+
+   -- registering monomial ideal 249 at 0x7f4fe8cb2840
+
+   -- registering monomial ideal 250 at 0x7f4fe8cb2440
+
+   -- registering monomial ideal 251 at 0x7f4fe8cb2040
+
+   -- registering monomial ideal 252 at 0x7f4fe8cb2c00
+
+   -- registering monomial ideal 253 at 0x7f4fe8cbdc40
+
+   -- registering monomial ideal 254 at 0x7f4fe8cbd740
+
+   -- registering monomial ideal 255 at 0x7f4fe8cbd240
+
+   -- registering monomial ideal 256 at 0x7f4fe8cbda00
+
+   -- registering monomial ideal 257 at 0x7f4fe8cc7440
+
+   -- registering monomial ideal 258 at 0x7f4fe8cc7040
+
+   -- registering monomial ideal 259 at 0x7f4fe8cc8680
+
+   -- registering monomial ideal 260 at 0x7f4fe8cc8280
+
+   -- registering monomial ideal 261 at 0x7f4fe8ce5440
+
+   -- registering monomial ideal 262 at 0x7f4fe8ce5040
+
+   -- registering monomial ideal 263 at 0x7f4fe8cfdf00
+
+   -- registering monomial ideal 264 at 0x7f4fe8d15d00
+
+   -- registering monomial ideal 265 at 0x7f4fe8d15180
+
+   -- registering monomial ideal 266 at 0x7f4fe8d15e80
+
+   -- registering monomial ideal 267 at 0x7f4fe8d26f80
+
+   -- registering monomial ideal 268 at 0x7f4fe8d26b80
+
+   -- registering monomial ideal 269 at 0x7f4fe8d41c00
+
+   -- registering monomial ideal 270 at 0x7f4fe8d41800
+
+   -- registering monomial ideal 271 at 0x7f4fe8d47800
+
+   -- registering monomial ideal 272 at 0x7f4fe8d47400
+
+   -- registering monomial ideal 273 at 0x7f4fe8d5d900
+
+   -- registering monomial ideal 274 at 0x7f4fe8d5d500
+
+   -- registering monomial ideal 275 at 0x7f4fe8d5d100
+
+   -- registering monomial ideal 276 at 0x7f4fe8d66e40
+
+   -- registering monomial ideal 277 at 0x7f4fe8d66a40
+
+   -- registering monomial ideal 278 at 0x7f4fe8d66540
+
+   -- registering monomial ideal 279 at 0x7f4fe8d66280
+
+   -- registering monomial ideal 280 at 0x7f4fe8d73f40
+
+   -- registering monomial ideal 281 at 0x7f4fe8d73800
+
+   -- registering monomial ideal 282 at 0x7f4fe8d73400
+
+   -- registering monomial ideal 283 at 0x7f4fe8d73180
+
+   -- registering monomial ideal 284 at 0x7f4fe8d81e00
+
+   -- registering monomial ideal 285 at 0x7f4fe8d81a00
+
+   -- registering monomial ideal 286 at 0x7f4fe8d81500
+
+   -- registering monomial ideal 287 at 0x7f4fe8d81000
+
+   -- registering monomial ideal 288 at 0x7f4fe8d88f00
+
+   -- registering monomial ideal 289 at 0x7f4fe8de3700
+
+   -- registering monomial ideal 290 at 0x7f4fe8de3300
+
+   -- registering monomial ideal 291 at 0x7f4fe8e64c80
+
+   -- registering monomial ideal 292 at 0x7f4fe8e64880
+
+   -- registering gb 130 at 0x7f4fe8e89e00
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 131 at 0x7f4fe8e89c40
+
+   -- [gb]{0}(13)moooooooooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 12
+   -- #spairs done = 13
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 132 at 0x7f4fe8e89a80
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 133 at 0x7f4fe8e898c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 134 at 0x7f4fe8e89700
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 135 at 0x7f4fe8e89540
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 136 at 0x7f4fe8e89380
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 137 at 0x7f4fe8e891c0
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 138 at 0x7f4fe8e89000
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 139 at 0x7f4fe90a5e00
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 140 at 0x7f4fe90a5c40
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 141 at 0x7f4fe90a5a80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 142 at 0x7f4fe90a58c0
+
+   -- [gb]{0}(13)moooooooooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 12
+   -- #spairs done = 13
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 143 at 0x7f4fe90a5700
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 144 at 0x7f4fe90a5540
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 145 at 0x7f4fe90a5380
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 146 at 0x7f4fe90a51c0
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 147 at 0x7f4fe90a5000
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 148 at 0x7f4fe9291e00
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 149 at 0x7f4fe9291c40
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 150 at 0x7f4fe9291a80
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 151 at 0x7f4fe92918c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 152 at 0x7f4fe9291700
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 153 at 0x7f4fe9291540
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 154 at 0x7f4fe9291380
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 155 at 0x7f4fe92911c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 156 at 0x7f4fe9291000
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 157 at 0x7f4fe94dbe00
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 158 at 0x7f4fe94dbc40
+
+   -- [gb]{1}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 159 at 0x7f4fe94dba80
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 160 at 0x7f4fe94db8c0
+
+   -- [gb]{0}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 161 at 0x7f4fe94db700
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 293 at 0x7f4fe9691300
+
+   -- registering monomial ideal 294 at 0x7f4fe9691040
+
+   -- registering monomial ideal 295 at 0x7f4fe96a7d40
+
+   -- registering monomial ideal 296 at 0x7f4fe96b9c80
+
+   -- registering monomial ideal 297 at 0x7f4fe96c7d00
+
+   -- registering monomial ideal 298 at 0x7f4fe96c7900
+
+   -- registering monomial ideal 299 at 0x7f4fe9747540
+
+   -- registering monomial ideal 300 at 0x7f4fe9747140
+
+   -- registering monomial ideal 301 at 0x7f4fe9821740
+
+   -- registering monomial ideal 302 at 0x7f4fe9821340
+
+   -- registering gb 162 at 0x7f4fe94db540
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 303 at 0x7f4fe9c67e80
+
+   -- registering monomial ideal 304 at 0x7f4fe9c674c0
+
+   -- registering gb 163 at 0x7f4fe94db380
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 305 at 0x7f4fe9ee92c0
+
+   -- registering monomial ideal 306 at 0x7f4fe9eef980
+
+   -- registering gb 164 at 0x7f4fe94db1c0
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 307 at 0x7f4fea171b00
+
+   -- registering monomial ideal 308 at 0x7f4fea171140
+
+   -- registering gb 165 at 0x7f4fe94db000
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 309 at 0x7f4fea3f03c0
+
+   -- registering monomial ideal 310 at 0x7f4fea3f4a80
+
+   -- registering gb 166 at 0x7f4fea67ce00
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 311 at 0x7f4fea67dc00
+
+   -- registering monomial ideal 312 at 0x7f4fea67d240
+
+   -- registering gb 167 at 0x7f4fea67cc40
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 313 at 0x7f4fea8fd440
+
+   -- registering monomial ideal 314 at 0x7f4fea901b00
+
+   -- registering monomial ideal 315 at 0x7f4fea915f00
+
+   -- registering monomial ideal 316 at 0x7f4fea915b00
+
+   -- registering monomial ideal 317 at 0x7f4fea9158c0
+
+   -- registering monomial ideal 318 at 0x7f4fea917d00
+
+   -- registering gb 168 at 0x7f4fea67ca80
+
+   -- [gb]{2}(15)moooooooooooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 14
+   -- #spairs done = 15
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 319 at 0x7f4febbd1bc0
+
+   -- registering monomial ideal 320 at 0x7f4febbd1440
+
+   -- registering gb 169 at 0x7f4fea67c8c0
+
+   -- [gb]{2}(15)moooooooooooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 14
+   -- #spairs done = 15
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 321 at 0x7f4fece7d7c0
+
+   -- registering monomial ideal 322 at 0x7f4fece7d040
+
+   -- registering gb 170 at 0x7f4fea67c700
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 323 at 0x7f4fecfe7380
+
+   -- registering monomial ideal 324 at 0x7f4fecfeed40
+
+   -- registering gb 171 at 0x7f4fea67c540
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 325 at 0x7f4fed14bac0
+
+   -- registering monomial ideal 326 at 0x7f4fed1538c0
+
+   -- registering gb 172 at 0x7f4fea67c380
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 327 at 0x7f4fed2bdc80
+
+   -- registering monomial ideal 328 at 0x7f4fed2bd500
+
+   -- registering gb 173 at 0x7f4fea67c1c0
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 329 at 0x7f4fed4238c0
+
+   -- registering monomial ideal 330 at 0x7f4fed423140
+
+   -- registering monomial ideal 331 at 0x7f4fed427f00
+
+   -- registering monomial ideal 332 at 0x7f4fed4398c0
+
+   -- registering monomial ideal 333 at 0x7f4fed439140
+
+   -- registering monomial ideal 334 at 0x7f4fed440c40
+
+   -- registering monomial ideal 335 at 0x7f4fed4404c0
+
+   -- registering monomial ideal 336 at 0x7f4fed443ec0
+
+   -- registering monomial ideal 337 at 0x7f4fed4432c0
+
+   -- registering monomial ideal 338 at 0x7f4fed452cc0
+
+   -- registering monomial ideal 339 at 0x7f4fed452540
+
+   -- registering monomial ideal 340 at 0x7f4fed454f40
+
+   -- registering monomial ideal 341 at 0x7f4fed4547c0
+
+   -- registering monomial ideal 342 at 0x7f4fed454d00
+
+   -- registering monomial ideal 343 at 0x7f4fed45e680
+
+   -- registering monomial ideal 344 at 0x7f4fed45e3c0
+
+   -- registering monomial ideal 345 at 0x7f4fed467900
+
+   -- registering monomial ideal 346 at 0x7f4fed467180
+
+   -- registering monomial ideal 347 at 0x7f4fed46fc80
+
+   -- registering monomial ideal 348 at 0x7f4fed46f500
+
+   -- registering monomial ideal 349 at 0x7f4fed484c80
+
+   -- registering monomial ideal 350 at 0x7f4fed484a00
+
+   -- registering polynomial ring 3 at 0x7f4fed4b9200
+
+   -- registering polynomial ring 4 at 0x7f4fed540a00
+
+   -- registering polynomial ring 5 at 0x7f4fed540100
+
+   -- registering gb 174 at 0x7f4fea67c000
+
+   -- [gb]{2}(15)moooooooooooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 14
+   -- #spairs done = 15
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 175 at 0x7f4fed8e7e00
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 176 at 0x7f4fed8e7c40
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 351 at 0x7f4fedc70980
+
+   -- registering monomial ideal 352 at 0x7f4fedc70700
+
+   -- registering polynomial ring 6 at 0x7f4fedcac300
+
+   -- registering polynomial ring 7 at 0x7f4fedd30b00
+
+   -- registering polynomial ring 8 at 0x7f4fedd30200
+
+   -- registering gb 177 at 0x7f4fed8e7a80
+
+   -- [gb]{2}(15)moooooooooooooonumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 14
+   -- #spairs done = 15
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 178 at 0x7f4fed8e78c0
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 1
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 179 at 0x7f4fed8e7700
+
+   -- [gb]{2}(1)mnumber of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 1
+   -- number of monomials                = 2
+   -- #reduction steps = 0
+   -- #spairs done = 1
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 353 at 0x7f4fee457280
+
+   -- registering monomial ideal 354 at 0x7f4fee461ac0
+
+   -- registering monomial ideal 355 at 0x7f4fee6e1f40
+
+   -- registering monomial ideal 356 at 0x7f4fee6e1580
+
+   -- registering monomial ideal 357 at 0x7f4fee6e2e00
+
+   -- registering monomial ideal 358 at 0x7f4fee6e2680
+
+   -- registering monomial ideal 359 at 0x7f4fee964ac0
+
+   -- registering monomial ideal 360 at 0x7f4fee964100
+
+   -- registering monomial ideal 361 at 0x7f4fee967900
+
+   -- registering monomial ideal 362 at 0x7f4fee967180
+
+   -- registering monomial ideal 363 at 0x7f4feebe6640
+
+   -- registering monomial ideal 364 at 0x7f4feebf0d40
+
+   -- registering monomial ideal 365 at 0x7f4feebf04c0
+
+   -- registering monomial ideal 366 at 0x7f4feebfce40
+
+   -- registering monomial ideal 367 at 0x7f4feee6d1c0
+
+   -- registering monomial ideal 368 at 0x7f4feee787c0
+
+   -- registering gb 180 at 0x7f4fed8e7540
+
+   -- [gb]{1}(18)mmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(10)mmmmmmmmmm{4}(29)mmmmmmomooo
+   -- oom{5}(35)oooooooooooooooooooooooooooooooooo{6}(1)onumber of (nonminimal) gb elements = 60
+   -- number of monomials                = 373
+   -- #reduction steps = 941
+   -- #spairs done = 145
+   -- ncalls = 253
+   -- nloop = 5505
+   -- nsaved = 9
+   -- 
+   -- registering monomial ideal 369 at 0x7f4feee914c0
+
+   -- registering monomial ideal 370 at 0x7f4feef9f740
+
+   -- registering gb 181 at 0x7f4fed8e7380
+
+   -- [gb]{1}(18)mmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(10)mmmmmmmmmm{4}(29)mmmmmmomooo
+   -- oom{5}(35)oooooooooooooooooooooooooooooooooo{6}(1)onumber of (nonminimal) gb elements = 60
+   -- number of monomials                = 372
+   -- #reduction steps = 941
+   -- #spairs done = 145
+   -- ncalls = 253
+   -- nloop = 5505
+   -- nsaved = 9
+   -- 
+   -- registering monomial ideal 371 at 0x7f4feef9d9c0
+
+   -- registering monomial ideal 372 at 0x7f4fef0c7300
+
+   -- registering gb 182 at 0x7f4fed8e71c0
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(6)mmmmm{4}(10)mmomm{5}(10)oooo
+   -- oooooonumber of (nonminimal) gb elements = 42
+   -- number of monomials                = 163
+   -- #reduction steps = 124
+   -- #spairs done = 53
+   -- ncalls = 35
+   -- nloop = 815
+   -- nsaved = 2
+   -- 
+   -- registering monomial ideal 373 at 0x7f4fef0e3700
+
+   -- registering monomial ideal 374 at 0x7f4fef11d440
+
+   -- registering gb 183 at 0x7f4fed8e7000
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(6)mmmmm{4}(10)mmomm{5}(10)oooo
+   -- oooooonumber of (nonminimal) gb elements = 42
+   -- number of monomials                = 163
+   -- #reduction steps = 125
+   -- #spairs done = 53
+   -- ncalls = 35
+   -- nloop = 815
+   -- nsaved = 2
+   -- 
+   -- registering monomial ideal 375 at 0x7f4fef13b700
+
+   -- registering monomial ideal 376 at 0x7f4fef16e6c0
+
+   -- registering gb 184 at 0x7f4fef18ce00
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(4)mmmm{4}(3)mo{5}(2)oonumber of (nonminimal) gb elements = 33
+   -- number of monomials                = 132
+   -- #reduction steps = 53
+   -- #spairs done = 36
+   -- ncalls = 9
+   -- nloop = 208
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 377 at 0x7f4fef18dcc0
+
+   -- registering monomial ideal 378 at 0x7f4fef1b3800
+
+   -- registering gb 185 at 0x7f4fef18cc40
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(4)mmmm{4}(3)mo{5}(2)oonumber of (nonminimal) gb elements = 33
+   -- number of monomials                = 132
+   -- #reduction steps = 53
+   -- #spairs done = 36
+   -- ncalls = 9
+   -- nloop = 208
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 379 at 0x7f4fef1d2bc0
+
+   -- registering monomial ideal 380 at 0x7f4fef1f3300
+
+   -- registering gb 186 at 0x7f4fef18ca80
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(4)mmmm{4}(3)mo{5}(2)oonumber of (nonminimal) gb elements = 33
+   -- number of monomials                = 126
+   -- #reduction steps = 53
+   -- #spairs done = 36
+   -- ncalls = 8
+   -- nloop = 189
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 381 at 0x7f4fef20ee80
+
+   -- registering monomial ideal 382 at 0x7f4fef234940
+
+   -- registering gb 187 at 0x7f4fef18c8c0
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(4)mmmm{4}(3)mo{5}(2)oonumber of (nonminimal) gb elements = 33
+   -- number of monomials                = 126
+   -- #reduction steps = 53
+   -- #spairs done = 36
+   -- ncalls = 8
+   -- nloop = 189
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 383 at 0x7f4fef252bc0
+
+   -- registering monomial ideal 384 at 0x7f4fef276c80
+
+   -- registering gb 188 at 0x7f4fef18c700
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(6)mmmmm{4}(10)mmomm{5}(10)oooo
+   -- oooooonumber of (nonminimal) gb elements = 42
+   -- number of monomials                = 165
+   -- #reduction steps = 111
+   -- #spairs done = 53
+   -- ncalls = 35
+   -- nloop = 815
+   -- nsaved = 2
+   -- 
+   -- registering monomial ideal 385 at 0x7f4fef294b80
+
+   -- registering monomial ideal 386 at 0x7f4fef2cc1c0
+
+   -- registering gb 189 at 0x7f4fef18c540
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(6)mmmmm{4}(10)mmomm{5}(10)oooo
+   -- oooooonumber of (nonminimal) gb elements = 42
+   -- number of monomials                = 165
+   -- #reduction steps = 111
+   -- #spairs done = 53
+   -- ncalls = 35
+   -- nloop = 815
+   -- nsaved = 2
+   -- 
+   -- registering monomial ideal 387 at 0x7f4fef2ea700
+
+   -- registering monomial ideal 388 at 0x7f4fef31c080
+
+   -- registering gb 190 at 0x7f4fef18c380
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(4)mmmm{4}(3)mo{5}(2)oonumber of (nonminimal) gb elements = 33
+   -- number of monomials                = 126
+   -- #reduction steps = 54
+   -- #spairs done = 36
+   -- ncalls = 9
+   -- nloop = 208
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 389 at 0x7f4fef33ab00
+
+   -- registering monomial ideal 390 at 0x7f4fef360580
+
+   -- registering gb 191 at 0x7f4fef18c1c0
+
+   -- [gb]{1}(19)mmmmmmmmmmmmmmmmmmm{2}(8)mmmmmmmm{3}(4)mmmm{4}(3)mo{5}(2)oonumber of (nonminimal) gb elements = 33
+   -- number of monomials                = 126
+   -- #reduction steps = 54
+   -- #spairs done = 36
+   -- ncalls = 9
+   -- nloop = 208
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 391 at 0x7f4fef380180
+
+   -- registering monomial ideal 392 at 0x7f4fef3a1080
+
+   -- registering gb 192 at 0x7f4fef18c000
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 193 at 0x7f4fef451e00
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 194 at 0x7f4fef451c40
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 195 at 0x7f4fef451a80
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 196 at 0x7f4fef4518c0
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 197 at 0x7f4fef451700
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 198 at 0x7f4fef451540
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 199 at 0x7f4fef451380
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 200 at 0x7f4fef4511c0
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 201 at 0x7f4fef451000
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 202 at 0x7f4fef4cce00
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering gb 203 at 0x7f4fef4ccc40
+
+   -- [gb]{1}(29)mmmmmmmmmmmmmmmmmmmmmmmmmmmmm{2}(1)mnumber of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- number of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- [gb]number of (nonminimal) gb elements = 30
+   -- number of monomials                = 68
+   -- #reduction steps = 0
+   -- #spairs done = 30
+   -- ncalls = 0
+   -- nloop = 0
+   -- nsaved = 0
+   -- 
+   -- registering monomial ideal 393 at 0x7f4fef6f8680
+
+   -- registering monomial ideal 394 at 0x7f4fef708880
+
+   -- registering monomial ideal 395 at 0x7f4fef7094c0
+
+   -- registering monomial ideal 396 at 0x7f4fef722080
+
+   -- registering monomial ideal 397 at 0x7f4fef738cc0
+
+   -- registering monomial ideal 398 at 0x7f4fef73e740
+
+   -- registering monomial ideal 399 at 0x7f4fef73b140
+
+   -- registering monomial ideal 400 at 0x7f4fef755400
+
+   -- registering monomial ideal 401 at 0x7f4fef755f00
+
+   -- registering monomial ideal 402 at 0x7f4fef76b0c0
+
+   -- registering monomial ideal 403 at 0x7f4fef76a580
+
+   -- registering monomial ideal 404 at 0x7f4fef783800
+
+   -- registering monomial ideal 405 at 0x7f4fef79afc0
+
+   -- registering monomial ideal 406 at 0x7f4fef79cf80
+
+   -- registering monomial ideal 407 at 0x7f4fef7afc80
+
+   -- registering monomial ideal 408 at 0x7f4fef7b5700
+
+   -- registering monomial ideal 409 at 0x7f4fef7b30c0
+
+   -- registering monomial ideal 410 at 0x7f4fef7cd3c0
+
+   -- registering monomial ideal 411 at 0x7f4fef7cdf80
+
+   -- registering monomial ideal 412 at 0x7f4fef7e6080
+
+   -- registering monomial ideal 413 at 0x7f4fef7e5640
+
+   -- registering monomial ideal 414 at 0x7f4fef7fc740
+
+   -- registering monomial ideal 415 at 0x7f4fef812f80
+
+   -- registering monomial ideal 416 at 0x7f4fef814f00
+
+Generating sets of the minimal primes:
+{ideal(5*x45-1,5*x35-1,5*x25+7,x05+x15,5*x34+7,5*x24-1,x14+x15,x04-x15,5*x23-1,x13+x15,x03-x15,x12-x15,x02+x15,x01+1,4*z45-5,4*z35-5,12*z25-5,6*z15-5*x15-5,6*z05+5*x15-5,12*z34-5,4*z24-5,6*z14+5*x15-5,6*z04-5*x15-5,4*z23-5,6*z13+5*x15-5,6*z03-5*x15-5,6*z12-5*x15-5,6*z02+5*x15-5,2*z01-1,5*x15^2+1), ideal(5*x45-1,5*x35-1,x15+x25,5*x05+7,5*x34+7,x24+x25,x14-x25,5*x04-1,x23+x25,x13-x25,5*x03-1,x12+1,x02-x25,x01+x25,4*z45-5,4*z35-5,6*z25-5*x25-5,6*z15+5*x25-5,12*z05-5,12*z34-5,6*z24+5*x25-5,6*z14-5*x25-5,4*z04-5,6*z23+5*x25-5,6*z13-5*x25-5,4*z03-5,2*z12-1,6*z02-5*x25-5,6*z01+5*x25-5,5*x25^2+1), ideal(5*x45-1,5*x35-1,5*x15+7,x05+x25,5*x34+7,x24+x25,5*x14-1,x04-x25,x23+x25,5*x13-1,x03-x25,x12-x25,x02+1,x01+x25,4*z45-5,4*z35-5,6*z25-5*x25-5,12*z15-5,6*z05+5*x25-5,12*z34-5,6*z24+5*x25-5,4*z14-5,6*z04-5*x25-5,6*z23+5*x25-5,4*z13-5,6*z03-5*x25-5,6*z12-5*x25-5,2*z02-1,6*z01+5*x25-5,5*x25^2+1), ideal(5*x45-1,5*x35+7,5*x25-1,x05+x15,5*x34-1,5*x24+7,x14+x15,x04-x15,5*x23-1,x13-x15,x03+x15,x12+x15,x02-x15,x01+1,4*z45-5,12*z35-5,4*z25-5,6*z15-5*x15-5,6*z05+5*x15-5,4*z34-5,12*z24-5,6*z14+5*x15-5,6*z04-5*x15-5,4*z23-5,6*z13-5*x15-5,6*z03+5*x15-5,6*z12+5*x15-5,6*z02-5*x15-5,2*z01-1,5*x15^2+1), ideal(5*x45-1,5*x35+7,x15+x25,5*x05-1,5*x34-1,x24+x25,x14-x25,5*x04+7,x23-x25,x13+x25,5*x03-1,x12+1,x02+x25,x01-x25,4*z45-5,12*z35-5,6*z25-5*x25-5,6*z15+5*x25-5,4*z05-5,4*z34-5,6*z24+5*x25-5,6*z14-5*x25-5,12*z04-5,6*z23-5*x25-5,6*z13+5*x25-5,4*z03-5,2*z12-1,6*z02+5*x25-5,6*z01-5*x25-5,5*x25^2+1), ideal(5*x45-1,5*x35+7,5*x15-1,x05+x25,5*x34-1,x24+x25,5*x14+7,x04-x25,x23-x25,5*x13-1,x03+x25,x12+x25,x02+1,x01-x25,4*z45-5,12*z35-5,6*z25-5*x25-5,4*z15-5,6*z05+5*x25-5,4*z34-5,6*z24+5*x25-5,12*z14-5,6*z04-5*x25-5,6*z23-5*x25-5,4*z13-5,6*z03+5*x25-5,6*z12+5*x25-5,2*z02-1,6*z01-5*x25-5,5*x25^2+1), ideal(5*x45-1,x25+x35,5*x15-1,5*x05+7,x34+x35,x24-x35,5*x14+7,5*x04-1,x23+1,x13+x35,x03-x35,x12-x35,x02+x35,5*x01-1,4*z45-5,6*z35-5*x35-5,6*z25+5*x35-5,4*z15-5,12*z05-5,6*z34+5*x35-5,6*z24-5*x35-5,12*z14-5,4*z04-5,2*z23-1,6*z13+5*x35-5,6*z03-5*x35-5,6*z12-5*x35-5,6*z02+5*x35-5,4*z01-5,5*x35^2+1), ideal(5*x45-1,x25+x35,5*x15+7,5*x05-1,x34+x35,x24-x35,5*x14-1,5*x04+7,x23+1,x13-x35,x03+x35,x12+x35,x02-x35,5*x01-1,4*z45-5,6*z35-5*x35-5,6*z25+5*x35-5,12*z15-5,4*z05-5,6*z34+5*x35-5,6*z24-5*x35-5,4*z14-5,12*z04-5,2*z23-1,6*z13-5*x35-5,6*z03+5*x35-5,6*z12+5*x35-5,6*z02-5*x35-5,4*z01-5,5*x35^2+1), ideal(5*x45-1,5*x25-1,x15+x35,5*x05+7,x34+x35,5*x24+7,x14-x35,5*x04-1,x23+x35,x13+1,x03-x35,x12-x35,5*x02-1,x01+x35,4*z45-5,6*z35-5*x35-5,4*z25-5,6*z15+5*x35-5,12*z05-5,6*z34+5*x35-5,12*z24-5,6*z14-5*x35-5,4*z04-5,6*z23+5*x35-5,2*z13-1,6*z03-5*x35-5,6*z12-5*x35-5,4*z02-5,6*z01+5*x35-5,5*x35^2+1), ideal(5*x45-1,5*x25-1,5*x15+7,x05+x35,x34+x35,5*x24+7,5*x14-1,x04-x35,x23+x35,x13-x35,x03+1,5*x12-1,x02-x35,x01+x35,4*z45-5,6*z35-5*x35-5,4*z25-5,12*z15-5,6*z05+5*x35-5,6*z34+5*x35-5,12*z24-5,4*z14-5,6*z04-5*x35-5,6*z23+5*x35-5,6*z13-5*x35-5,2*z03-1,4*z12-5,6*z02-5*x35-5,6*z01+5*x35-5,5*x35^2+1), ideal(5*x45-1,5*x25+7,x15+x35,5*x05-1,x34+x35,5*x24-1,x14-x35,5*x04+7,x23-x35,x13+1,x03+x35,x12+x35,5*x02-1,x01-x35,4*z45-5,6*z35-5*x35-5,12*z25-5,6*z15+5*x35-5,4*z05-5,6*z34+5*x35-5,4*z24-5,6*z14-5*x35-5,12*z04-5,6*z23-5*x35-5,2*z13-1,6*z03+5*x35-5,6*z12+5*x35-5,4*z02-5,6*z01-5*x35-5,5*x35^2+1), ideal(5*x45-1,5*x25+7,5*x15-1,x05+x35,x34+x35,5*x24-1,5*x14+7,x04-x35,x23-x35,x13+x35,x03+1,5*x12-1,x02+x35,x01-x35,4*z45-5,6*z35-5*x35-5,12*z25-5,4*z15-5,6*z05+5*x35-5,6*z34+5*x35-5,4*z24-5,12*z14-5,6*z04-5*x35-5,6*z23-5*x35-5,6*z13+5*x35-5,2*z03-1,4*z12-5,6*z02+5*x35-5,6*z01-5*x35-5,5*x35^2+1)}
+
+Number of points: 6
+
+Selected factor number: 5
+
+Number of minimal primes of I+(q): 12
+
+i1 : 
+INFO:    Stopping 4403905 instance of /clusteruy/home/mvaldes/m2-v1.2_latest.sif (PID=29852)
+       JobID MaxPages     MaxRSS  MaxVMSize   NTasks             Nodelist 
+------------ -------- ---------- ---------- -------- -------------------- 
+4403905.bat+       16      3756K    215444K        1               node25 
