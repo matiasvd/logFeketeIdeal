@@ -31,13 +31,13 @@ Both *msolve* and *M2* are open source software. *Msolve* implements the F4 algo
 
 ## Description of M2 and Msolve code files
 
-* 1idealGens: generate the polynomial ideal using M2.
+* 1idealGens: generate the polynomial ideal $I$ using M2.
 
-* 2msolveBasis: calculate a reduced Grobner basis for the polynomial ideal, using msolve with grevlex monomial order.
+* 2msolveBasis: calculate a reduced Grobner basis for the polynomial ideal $I$, using msolve with grevlex monomial order.
 
-* 3dimDegree: pass the Grobner basis to M2, and use it to calculate the dimension and degree of the ideal.
+* 3dimDegree: pass the Grobner basis to M2, and use it to calculate the dimension and degree of the ideal $I$.
 
-* 4msolveProjection: calculate the elimination ideals $R \cap \mathbb{Q}[x_{45}]$ with msolve, using an elimination order. Then use M2 to factorize the elimination ideal generator.
+* 4msolveProjection: calculate the elimination ideals $I \cap \mathbb{Q}[x_{45}]$ with msolve, using an elimination order. Then use M2 to factorize the elimination ideal generator.
 
 * 5minimalPrimes: for each factor $h$ of the elimination ideal generator, use msolve to calculate a Grobner basis of $I+(h)$, and then pass this basis to M2 to calculate the minimal primes factorization of $I+(h)$.
 
