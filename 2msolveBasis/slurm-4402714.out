@@ -1,0 +1,112 @@
+
+--------------- INPUT DATA ---------------
+#variables                      30
+#equations                      51
+#invalid equations               0
+field characteristic             0
+homogeneous input?               0
+signature-based computation      0
+monomial order                 DRL
+basis hash table resetting     OFF
+linear algebra option            2
+initial hash table size     131072 (2^17)
+max pair selection             ALL
+reduce gb                        1
+#threads                        20
+info level                       2
+generate pbm files               0
+------------------------------------------
+
+Legend for f4 information
+--------------------------------------------------------
+deg       current degree of pairs selected in this round
+sel       number of pairs selected in this round
+pairs     total number of pairs in pair list
+mat       matrix dimensions (# rows x # columns)
+density   density of the matrix
+new data  # new elements for basis in this round
+          # zero reductions during linear algebra
+time(rd)  time of the current f4 round in seconds given
+          for real and cpu time
+--------------------------------------------------------
+
+deg     sel   pairs        mat          density            new data         time(rd) in sec (real|cpu)
+------------------------------------------------------------------------------------------------------
+  1       1      36       6 x 16         37.50%        1 new       0 zero         0.05 | 0.91         
+  2      36      36     120 x 229         3.24%       25 new      11 zero         0.00 | 0.04         
+  3     130     130     733 x 1829        0.93%      110 new      20 zero         0.01 | 0.29         
+  4    1137    1184    6691 x 11818       0.48%      464 new     673 zero         0.29 | 5.14         
+  4     139    6418    2051 x 4571        1.75%      138 new       1 zero         0.14 | 2.71         
+  4     831    7615    6358 x 10394       1.68%      796 new      35 zero         1.64 | 28.20        
+  4     106   20873    3755 x 7368        3.31%      106 new       0 zero         0.38 | 6.54         
+  4      50   22576    4515 x 9595        3.38%       45 new       5 zero         0.25 | 3.32         
+  5   23197   23317   88591 x 92707       0.59%     8556 new   14651 zero       283.22 | 3145.65      
+  4   14834   51094   31190 x 19346       4.28%     1738 new   13106 zero       124.99 | 953.41       
+  4    9477   52362   25583 x 16880       4.48%      230 new    9641 zero        19.50 | 203.14       
+  4      96   47945   11161 x 12001       4.97%        0 new      98 zero         0.49 | 1.78         
+  5   47848   47849  132653 x 85461       0.99%        0 new   48130 zero        61.89 | 1061.81      
+  6       1       1   11885 x 12822       5.07%        0 new       1 zero         0.51 | 0.86         
+------------------------------------------------------------------------------------------------------
+reduce final basis     7731 x 8669        6.60%     2473 new       0 zero         0.55 | 1.01         
+------------------------------------------------------------------------------------------------------
+
+---------------- TIMINGS ----------------
+overall(elapsed)      494.17 sec
+overall(cpu)         5417.92 sec
+select                 11.24 sec   2.3%
+symbolic prep.          5.30 sec   1.1%
+update                360.39 sec  72.9%
+convert                 0.22 sec   0.0%
+linear algebra        116.54 sec  23.6%
+reduce gb               0.00 sec   0.0%
+-----------------------------------------
+
+---------- COMPUTATIONAL DATA -----------
+size of basis                  2473
+#terms in basis             2133497
+#pairs reduced                97883
+#GM criterion              75049787
+#redundant elements            9793
+#rows reduced                199635
+#zero reductions              86372
+max. matrix data             132653 x 85461 (0.990%)
+max. symbolic hash table size  2^17
+max. basis hash table size     2^24
+-----------------------------------------
+
+
+---------- COMPUTATIONAL DATA -----------
+[6][34][1268][1165]
+#polynomials to lift           2473
+-----------------------------------------
+
+---------------- TIMINGS ----------------
+multi-mod overall(elapsed)     29.77 sec
+learning phase                  0.00 Gops/sec
+application phase               0.00 Gops/sec
+-----------------------------------------
+
+multi-modular steps
+------------------------------------------------------------------------------------------------------
+{1}{2}<1.74%>{4}{8}{16}<2.06%>{32}<2.47%>{64}<5.26%><5.46%><6.03%><6.19%><26.08%><100.00%>
+
+------------------------------------------------------------------------------------
+msolve overall time        3962.89 sec (elapsed) / 28040.48 sec (cpu)
+------------------------------------------------------------------------------------
+ 
+------------------------------------------------------------------------------------------------------
+
+
+---------- COMPUTATIONAL DATA -----------
+Max coeff. bitsize             2242
+#primes                         117
+#bad primes                       0
+-----------------------------------------
+
+---------------- TIMINGS ----------------
+CRT     (elapsed)               9.41 sec
+ratrecon(elapsed)              10.69 sec
+-----------------------------------------
+       JobID MaxPages     MaxRSS  MaxVMSize   NTasks             Nodelist 
+------------ -------- ---------- ---------- -------- -------------------- 
+4402714.bat+       16  38230176K  40767492K        1               node08 
