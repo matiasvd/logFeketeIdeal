@@ -46,13 +46,16 @@ Both *msolve* and *M2* are open source software. *Msolve* implements the F4 algo
 
 ## Important note
 
-The files containing a Grobner base for six points are uploaded to github via Large File Storage (LFS), as their size is in the order of 600 MB (compressed with bz2).
+The files containing a Grobner base for six points are uploaded to github via Large File Storage (LFS), as their size is in the order of 600 MB (compressed with bz2). These files are:
+
+* ./2msolveBasis/n6p0base.ms.bz2 and
+* ./3dimDegree/n6p0base.m2.bz2.
 
 To download the whole repository, including the LFS files, you need to install git and use the following command on your computer:
 
 > git clone https://github.com/matiasvd/logFeketeIdeal.git
 
-If you download the repository as a zip file with a browser, and not using "git clone", the LFS files will no be downloaded.
+If you download the repository as a zip file with a browser, and not using "git clone", the LFS files will no be downloaded. However, you may still download the LFS files using a browser, by going to the files page and clicking on "Download raw file".
 
 
 ## References
