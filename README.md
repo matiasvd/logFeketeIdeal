@@ -51,7 +51,7 @@ The files containing a Grobner base for six points are uploaded to github via La
 * ./2msolveBasis/n6p0base.ms.bz2 and
 * ./3dimDegree/n6p0base.m2.bz2.
 
-To download the whole repository, including the LFS files, you need to install git and use the following command on your computer:
+To download the whole repository, including the LFS files, you need to install git and use the following (usual) command on your computer:
 
 > git clone https://github.com/matiasvd/logFeketeIdeal.git
 
