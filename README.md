@@ -60,6 +60,6 @@ If you download the repository as a zip file with a browser, and not using "git 
 
 ## References
 
-[^1]: Jérémy Berthomieu, Christian Eder, and Mohab Safey El Din. 2021. msolve: A Library for Solving Polynomial Systems. In (46th International Symposium on Symbolic and Algebraic Computation). ACM, 51–58. doi: 10.1145/3452143.3465545
+[^1]: Jérémy Berthomieu, Christian Eder, and Mohab Safey El Din. 2021. msolve: A Library for Solving Polynomial Systems. In (46th International Symposium on Symbolic and Algebraic Computation). ACM, 51–58. doi: 10.1145/3452143.3465545. https://github.com/algebraic-solving/msolve.
 [^2]: Daniel R. Grayson and Michael E. Stillman. [n. d.] Macaulay2, a software system for research in algebraic geometry. http://www2.macaulay2.com.
 [^3]: Jean-Charles Faugere. 1999. A new efficient algorithm for computing Grobner bases (F4). Journal of pure and applied algebra, 139, 1-3, 61–88.
