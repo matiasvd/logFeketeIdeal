@@ -1,0 +1,23 @@
+INFO:    instance started successfully
+Macaulay2, version 1.24.11
+--loading configuration for package "Topcom" from file /clusteruy/home/mvaldes/.Macaulay2/init-Topcom.m2
+-- new configuration options for package Topcom
+--backup file created: /clusteruy/home/mvaldes/.Macaulay2/init-Topcom.m2.bak
+-- storing configuration for package Topcom in /clusteruy/home/mvaldes/.Macaulay2/init-Topcom.m2
+with packages: ConwayPolynomials, Elimination, IntegralClosure, InverseSystems, Isomorphism, LLLBases, MinimalPrimes, OnlineLookup, PackageCitations, Polyhedra, PrimaryDecomposition, ReesAlgebra, Saturation, TangentCone, Truncations, Varieties
+
+   -- registering monomial ideal 0 at 0x7ef7412d3440
+
+   -- registering monomial ideal 1 at 0x7ef7413caec0
+
+Input basis file: ../2msolveBasis/n5p0base.m2
+
+Ideal dimension: 0
+
+Ideal degree: 38
+
+i1 : 
+INFO:    Stopping 4412239 instance of /clusteruy/home/mvaldes/m2_v1.24.11.sif (PID=21208)
+       JobID MaxPages     MaxRSS  MaxVMSize   NTasks             Nodelist 
+------------ -------- ---------- ---------- -------- -------------------- 
+4412239.bat+       10      3752K    215444K        1               node17 

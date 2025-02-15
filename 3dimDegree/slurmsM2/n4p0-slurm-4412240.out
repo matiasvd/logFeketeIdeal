@@ -1,0 +1,19 @@
+INFO:    instance started successfully
+Macaulay2, version 1.24.11
+with packages: ConwayPolynomials, Elimination, IntegralClosure, InverseSystems, Isomorphism, LLLBases, MinimalPrimes, OnlineLookup, PackageCitations, Polyhedra, PrimaryDecomposition, ReesAlgebra, Saturation, TangentCone, Truncations, Varieties
+
+   -- registering monomial ideal 0 at 0x7f70a974ab40
+
+   -- registering monomial ideal 1 at 0x7f70a975e3c0
+
+Input basis file: ../2msolveBasis/n4p0base.m2
+
+Ideal dimension: 0
+
+Ideal degree: 4
+
+i1 : 
+INFO:    Stopping 4412240 instance of /clusteruy/home/mvaldes/m2_v1.24.11.sif (PID=21435)
+       JobID MaxPages     MaxRSS  MaxVMSize   NTasks             Nodelist 
+------------ -------- ---------- ---------- -------- -------------------- 
+4412240.bat+       16      3748K    215444K        1               node17 
