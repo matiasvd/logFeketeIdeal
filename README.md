@@ -1,6 +1,6 @@
 # Characterization of Logarithmic Fekete Critical Configurations of at Most Six Points in All Dimensions
 
-    Code for reproducing the results of the paper [https://arxiv.org/abs/2502.10152](https://arxiv.org/abs/2502.10152)
+> Repository with the code for reproducing the results of the paper https://arxiv.org/abs/2502.10152
 
 Consider the problem of placing $n$ different points on the unit sphere $S^{d-1} \subset \mathbb{R}^d$, in such a way that the product of their mutual Euclidean distances is maximized:
 
