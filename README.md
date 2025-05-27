@@ -10,7 +10,7 @@ Taking logarithm in the objective function, we obtain an equivalent problem, kno
 
 $$ \min_{ w \in (S^{d-1})^n } - \sum_{i=1}^{n} \sum_{j=i+1}^{n} \log \left( \|w_i - w_j \|^2 \right) .$$
 
-In this work we find and classify all the critical configurations of the logarithmic Fekete problem, for the case of at most six points, and for spheres of all possible dimensions. In particular, we find the previously unknown solution for six points on the sphere $S^3$, and also show that for this case there exists a local minimum that is not global.
+In this work we find and classify all the critical configurations of the logarithmic Fekete problem, for the case of at most six points, and for spheres of all possible dimensions. In particular, our approach gives new proofs of several key results appearing in the literature, with the benefit of using a unified approach.
 
 Our strategy for determining all critical configurations proceeds as follows. First we define a system of polynomial equations, associated to the critical configurations. Then we count the number of complex solutions of the polynomial system, by computing a Grobner basis for its ideal. We call this quantity the "expected number of solutions". Simultaneously, we find as many solutions of the polynomial system as we can, and compare the number of found solutions with the upper bound. The proof of the Theorem is achieved because we are able to find enough solutions so as to exactly match the upper bound.
 
