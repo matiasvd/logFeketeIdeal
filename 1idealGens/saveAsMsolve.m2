@@ -11,7 +11,7 @@
 -- 07/24 - 02/25 - MVD.
 --------------
 saveAsMsolve = (fileName, R, p, J) -> (
-  f = fileName << ""; -- generate empty text file
+  f := fileName << ""; -- generate empty text file
   
   -- write ring variables to file
   f << toString gens R << endl;
@@ -20,7 +20,7 @@ saveAsMsolve = (fileName, R, p, J) -> (
   f << p << endl;
 
   -- write each generator to file
-  m = numgens J; -- number of generators
+  m := numgens J; -- number of generators
   for i from 0 to m-1 do (
     f << toString J_i << "," << endl;
   );

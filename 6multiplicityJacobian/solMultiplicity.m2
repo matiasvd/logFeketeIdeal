@@ -26,20 +26,20 @@ conf = configs_4
 -- Output: rank of jacobian of ideal generators at p.
 --------
 jacRank = (R, I, zx) -> (
-    m = numgens R; -- number of ring variables
+    m := numgens R; -- number of ring variables
     << "Number of ring variables: " << m << endl;
 
-    k = numgens I; -- number of ideal generators
+    k := numgens I; -- number of ideal generators
     << "Number of ideal generators: " << k << endl;
 
     --------
     -- jacobian matrix of ideal generators
     --------
-    Dx = jacobian I; -- jacobian matrix of generators of the ideal. Dx is mxk.
+    Dx := jacobian I; -- jacobian matrix of generators of the ideal. Dx is mxk.
 
     -- evaluate matrix entries at configuration values
-    F = map(R, R, zx); -- map F:R->R that sends each variable to the corresponding configuration value.
-    D = F(Dx); -- map matrix entries to configuration values
+    F := map(R, R, zx); -- map F:R->R that sends each variable to the corresponding configuration value.
+    D := F(Dx); -- map matrix entries to configuration values
 
     << "Size of jacobian matrix D(p): " << numRows D << "x" << numColumns D << endl;
 
@@ -48,7 +48,7 @@ jacRank = (R, I, zx) -> (
     --------
     -- rank of jacobian matrix
     --------
-    elapsedTime rankD = rank D; -- rank matrix D
+    elapsedTime rankD := rank D; -- rank matrix D
     << "Rank of jacobian matrix of generators: " << rankD << endl;
 
 )
