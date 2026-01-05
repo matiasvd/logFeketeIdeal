@@ -152,7 +152,7 @@ J = I1 + I2 + I3 -- all the equations
 -- -- the parenthesis { and } that hold the variables of the first line, and
 -- -- the comma after the last generator.
 --------------
-load "saveAsMsolve.m2"; -- load auxiliary function that does the saving
+load "../saveAsMsolve.m2"; -- load auxiliary function that does the saving
 
 -- name is of the form: n4p0ideal.ms
 fileName = concatenate( "n", toString(n), "p", toString(p), "ideal.ms" );
