@@ -16,10 +16,11 @@
 -- 01/26 - MVD.
 ----------------
 
-fixDipole = true; -- fix a dipole between the last two points.
+fixDipole = false; -- fix a dipole between the last two points.
+
 saveIdeal = true; -- save ideal with msolve format.
 
-n = 4; -- number of points (n>=3)
+n = 7; -- number of points (n>=3)
 
 p = 0; -- p=0 => rational coefficients, p>0 => coefficients in Zp, p prime.
 
@@ -132,6 +133,7 @@ J = I1 + I2 + I3 -- all the equations
 -- Remove orthogonal symmetries by fixing coordinates.
 -- It also removes the fixed variables from the ring.
 ----------------
+
 if fixDipole then ( -- fix a dipole between the last two points.
   ----------------
   -- Fix: w_(n-1) = (-1,0,0), w_(n-2) = (1,0,0), and w_(n-3) = (x,y,0).
