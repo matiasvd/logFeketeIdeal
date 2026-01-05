@@ -2,8 +2,8 @@
 #SBATCH --job-name=DotProdMinors
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=40
-#SBATCH --mem=150G
-#SBATCH --time=05:00:00
+#SBATCH --mem=350G
+#SBATCH --time=120:00:00
 #SBATCH --tmp=10G
 #SBATCH --partition=normal
 #SBATCH --qos=normal
@@ -14,10 +14,10 @@ threads=40
 # maxPairs=1000
 
 # input file
-input=n6p0idealMaxRank3.ms
+input=n7p0idealMaxRank3.ms
 
 # output file
-output=n6p0idealMaxRank3BasisLT.ms
+output=n7p0idealMaxRank3BasisLT.ms
 
 # code directory
 dirCode=~/idealDotProductsMinors/
