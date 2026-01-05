@@ -1,0 +1,115 @@
+/var/spool/slurm/d/job5131950/slurm_script: línea 24: cd: /clusteruy/home/mvaldes/idealCartesian/: No existe el fichero o el directorio
+
+--------------- INPUT DATA ---------------
+#variables                      22
+#equations                      30
+#invalid equations               0
+field characteristic             0
+homogeneous input?               0
+signature-based computation      0
+monomial order                 DRL
+basis hash table resetting     OFF
+linear algebra option            2
+initial hash table size     131072 (2^17)
+max pair selection             ALL
+reduce gb                        1
+#threads                        40
+info level                       2
+generate pbm files               0
+------------------------------------------
+Initial prime = 1219800341
+
+Legend for f4 information
+--------------------------------------------------------
+deg       current degree of pairs selected in this round
+sel       number of pairs selected in this round
+pairs     total number of pairs in pair list
+mat       matrix dimensions (# rows x # columns)
+density   density of the matrix
+new data  # new elements for basis in this round
+          # zero reductions during linear algebra
+time(rd)  time of the current f4 round in seconds given
+          for real and cpu time
+--------------------------------------------------------
+
+deg     sel   pairs        mat          density            new data         time(rd) in sec (real|cpu)
+------------------------------------------------------------------------------------------------------
+  2       4      63      19 x 60         10.53%        3 new       1 zero         0.00 | 0.03         
+  2      13      50      44 x 111         4.18%       13 new       0 zero         0.00 | 0.05         
+  3      67      83     377 x 814         0.74%       48 new      19 zero         0.00 | 0.17         
+  3       1     396       5 x 7          42.86%        0 new       1 zero         0.00 | 0.01         
+  4     374     395    1840 x 3522        0.29%      180 new     194 zero         0.03 | 1.31         
+  4     373    1942    1467 x 2238        0.94%      268 new     105 zero         0.11 | 4.46         
+  3     182    3403     555 x 778         3.74%      168 new      14 zero         0.11 | 4.35         
+  3     263    3794     899 x 1073        3.30%      144 new     125 zero         0.12 | 4.80         
+  3     446    2901    1266 x 1091        3.34%       92 new     373 zero         0.08 | 3.19         
+  3     282    2654    1133 x 1149        2.69%       60 new     225 zero         0.05 | 2.06         
+  3      19    3135     243 x 354         8.67%        5 new      14 zero         0.01 | 0.24         
+  3      49    3053     450 x 599         4.47%        9 new      40 zero         0.01 | 0.39         
+  4    2878    3138    9131 x 6595        0.53%       85 new    2825 zero         0.18 | 6.98         
+  3      57    1262     864 x 951         3.37%       11 new      46 zero         0.02 | 0.61         
+  4     894    1263    4591 x 3959        0.76%       62 new     832 zero         0.09 | 3.53         
+  3      95    1075     859 x 870         3.76%        7 new      89 zero         0.01 | 0.47         
+  3      68    1007     590 x 621         4.50%        3 new      65 zero         0.01 | 0.24         
+  3      38     939     516 x 562         4.48%        0 new      38 zero         0.00 | 0.08         
+  4     832     901    3791 x 3079        0.90%        0 new     832 zero         0.02 | 0.99         
+  5      69      69    5751 x 5802        0.47%        0 new      69 zero         0.02 | 0.84         
+------------------------------------------------------------------------------------------------------
+reduce final basis      366 x 486         5.80%      247 new       0 zero         0.00 | 0.09         
+------------------------------------------------------------------------------------------------------
+
+---------------- TIMINGS ----------------
+overall(elapsed)        0.98 sec
+overall(cpu)           38.59 sec
+select                  0.04 sec   4.0%
+symbolic prep.          0.06 sec   5.8%
+update                  0.72 sec  73.4%
+convert                 0.01 sec   1.0%
+linear algebra          0.15 sec  15.2%
+reduce gb               0.00 sec   0.0%
+-----------------------------------------
+
+---------- COMPUTATIONAL DATA -----------
+size of basis                   247
+#terms in basis                6609
+#pairs reduced                 7004
+#GM criterion                698074
+#redundant elements             941
+#rows reduced                 14377
+#zero reductions               5907
+max. matrix data               9131 x 6595 (0.534%)
+max. symbolic hash table size  2^13
+max. basis hash table size     2^18
+-----------------------------------------
+
+
+---------------- TIMINGS ----------------
+overall(elapsed)        0.99 sec
+overall(cpu)           38.64 sec
+tracer                  0.00 sec   0.0%
+convert                 0.00 sec   0.0%
+linear algebra          0.00 sec   0.0%
+reduce gb               0.00 sec   0.0%
+-----------------------------------------
+
+---------- COMPUTATIONAL DATA -----------
+size of basis                     0
+#terms in basis                   0
+#pairs reduced                    0
+#GM criterion                     0
+#redundant elements               0
+#rows reduced                     0
+#zero reductions                  0
+max. matrix data                  0 x 0 (0.000%)
+max. symbolic hash table size  2^-2147483648
+max. basis hash table size     2^16
+-----------------------------------------
+
+
+
+------------------------------------------------------------------------------------
+msolve overall time           1.17 sec (elapsed) / 39.24 sec (cpu)
+------------------------------------------------------------------------------------
+       JobID MaxPages     MaxRSS  MaxVMSize   NTasks             Nodelist 
+------------ -------- ---------- ---------- -------- -------------------- 
+5131950.bat+       14      3936K    217792K        1               node26 
